@@ -97,7 +97,7 @@ HAL_Delay(1000);
 
 
 ## OUTPUT  :
-![Screenshot 2024-08-19 232120](https://github.com/user-attachments/assets/fe429cf8-4915-42ea-93ae-2f07ab99a3df)
+![IOT Exp 1](https://github.com/user-attachments/assets/26a7e354-738e-4bba-b552-b674c5d9676c)
 
  
  
