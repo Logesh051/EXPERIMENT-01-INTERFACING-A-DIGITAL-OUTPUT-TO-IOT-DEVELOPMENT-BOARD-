@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 19.08.2024
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: Logesh.N.A
+###  ROLL NO :212223240078
+###  DEPARTMENT: Artificial Intelligence and Machine Learning
 
 
 
@@ -86,12 +86,19 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
-
+```
+HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_RESET);
+HAL_Delay(1000);
+HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_SET);
+HAL_Delay(1000);
+```
 
 
 
 
 ## OUTPUT  :
+![Screenshot 2024-08-19 232120](https://github.com/user-attachments/assets/fe429cf8-4915-42ea-93ae-2f07ab99a3df)
+
  
  
  
